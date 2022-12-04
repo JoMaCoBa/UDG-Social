@@ -28,7 +28,7 @@ Para este proyecto optamos por varias tecnologías para llevarlo a cabo, a conti
 
                                                                       **Inicio de sesión** 
 
-(https://github.com/JoMaCoBa/UDG-Social/blob/main/Capturas/login.png)
+(Capturas/login.png)
 
 ---
 
