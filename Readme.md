@@ -28,7 +28,8 @@ Para este proyecto optamos por varias tecnologías para llevarlo a cabo, a conti
 
                                                                       **Inicio de sesión** 
 
-(Capturas/login.png)
+![login](https://user-images.githubusercontent.com/110343648/205512326-3feb7cd4-b168-46b8-91fa-01c4620a9402.png)
+
 
 ---
 
