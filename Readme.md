@@ -34,32 +34,36 @@ Para este proyecto optamos por varias tecnologías para llevarlo a cabo, a conti
 ---
 
                                                                **Formulario de Registro**
+![Registro](https://user-images.githubusercontent.com/110343648/205512382-e3fd6d1e-097c-40b4-8077-bafdb6d93050.png)
 
-(https://github.com/JoMaCoBa/UDG-Social/blob/main/Capturas/Registro.png)
 
 ---
 
                                                                    **Muro del Usuario**
 
-(https://github.com/JoMaCoBa/UDG-Social/blob/main/Capturas/Muro.png)
+![Muro](https://user-images.githubusercontent.com/110343648/205512400-92d0ac5d-8cb3-4a69-8595-76596bf02a54.png)
+
 
 ---
 
                                               **Vista de home (’Desde otro usuario’)**
-![Imagen de inicio siguiendo personas]
-(https://github.com/JoMaCoBa/UDG-Social/blob/master/Capturas/Inicio1.png)
+
+![Inicio1](https://user-images.githubusercontent.com/110343648/205512413-0b4aa8c7-e8c4-49ec-ba0a-82e0d9e52da2.png)
+
 
 ---
 
                                 **Vista de home (’Desde un usuario que no sigue a nadie’)**
 
-(https://github.com/JoMaCoBa/UDG-Social/blob/main/Capturas/Inicio2.png)
+![Inicio2](https://user-images.githubusercontent.com/110343648/205512422-82af7d9b-9b98-4933-9b93-3cdcdd39abc2.png)
+
 
 ---
 
                                                         **Vista para publicar post**
 
-(https://github.com/JoMaCoBa/UDG-Social/blob/main/Capturas/Post.png)
+![Post](https://user-images.githubusercontent.com/110343648/205512444-60e2defd-e8c2-4139-b815-331048824b07.png)
+
 
 ---
 
