@@ -1,0 +1,14 @@
+Universidad de Guadalajara 
+Centro Universitario de Ciencias Exactas e Ingeniería 
+División de Tecnologías para la Integración Ciber-Humana
+
+Computación Tolerante a Fallas – D06
+
+Proyecto v1
+
+05/12/2022
+
+Integrantes:
+Camarena Miranda Eric Omar
+Correa Bañuelos José Manuel
+Ortega Cuevas Diego Enrique
