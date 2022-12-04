@@ -4,6 +4,9 @@ División de Tecnologías para la Integración Ciber-Humana
 
 Computación Tolerante a Fallas – D06
 
+Profesor:
+MICHEL EMANUEL LOPEZ FRANCO
+
 Proyecto v1
 
 05/12/2022
