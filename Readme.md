@@ -28,37 +28,37 @@ Para este proyecto optamos por varias tecnologías para llevarlo a cabo, a conti
 
                                                                       **Inicio de sesión** 
 
-(Computacio%CC%81n%20Tolerante%20a%20Fallas%20-%20UDG%20Social%20061d3a584dd049b98c49974acf7587d8/Untitled.png)
+(https://github.com/JoMaCoBa/UDG-Social/blob/main/Capturas/login.png)
 
 ---
 
                                                                **Formulario de Registro**
 
-(Computacio%CC%81n%20Tolerante%20a%20Fallas%20-%20UDG%20Social%20061d3a584dd049b98c49974acf7587d8/Untitled%201.png)
+(https://github.com/JoMaCoBa/UDG-Social/blob/main/Capturas/Registro.png)
 
 ---
 
                                                                    **Muro del Usuario**
 
-(Computacio%CC%81n%20Tolerante%20a%20Fallas%20-%20UDG%20Social%20061d3a584dd049b98c49974acf7587d8/Untitled%202.png)
+(https://github.com/JoMaCoBa/UDG-Social/blob/main/Capturas/Muro.png)
 
 ---
 
                                               **Vista de home (’Desde otro usuario’)**
 
-(Computacio%CC%81n%20Tolerante%20a%20Fallas%20-%20UDG%20Social%20061d3a584dd049b98c49974acf7587d8/Untitled%203.png)
+(https://github.com/JoMaCoBa/UDG-Social/blob/main/Capturas/Inicio1.png)
 
 ---
 
                                 **Vista de home (’Desde un usuario que no sigue a nadie’)**
 
-(Computacio%CC%81n%20Tolerante%20a%20Fallas%20-%20UDG%20Social%20061d3a584dd049b98c49974acf7587d8/Untitled%204.png)
+(https://github.com/JoMaCoBa/UDG-Social/blob/main/Capturas/Inicio2.png)
 
 ---
 
                                                         **Vista para publicar post**
 
-(Computacio%CC%81n%20Tolerante%20a%20Fallas%20-%20UDG%20Social%20061d3a584dd049b98c49974acf7587d8/Untitled%205.png)
+(https://github.com/JoMaCoBa/UDG-Social/blob/main/Capturas/Post.png)
 
 ---
 
