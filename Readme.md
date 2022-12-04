@@ -28,37 +28,37 @@ Para este proyecto optamos por varias tecnologías para llevarlo a cabo, a conti
 
                                                                       **Inicio de sesión** 
 
-![Untitled](Computacio%CC%81n%20Tolerante%20a%20Fallas%20-%20UDG%20Social%20061d3a584dd049b98c49974acf7587d8/Untitled.png)
+(Computacio%CC%81n%20Tolerante%20a%20Fallas%20-%20UDG%20Social%20061d3a584dd049b98c49974acf7587d8/Untitled.png)
 
 ---
 
                                                                **Formulario de Registro**
 
-![Untitled](Computacio%CC%81n%20Tolerante%20a%20Fallas%20-%20UDG%20Social%20061d3a584dd049b98c49974acf7587d8/Untitled%201.png)
+(Computacio%CC%81n%20Tolerante%20a%20Fallas%20-%20UDG%20Social%20061d3a584dd049b98c49974acf7587d8/Untitled%201.png)
 
 ---
 
                                                                    **Muro del Usuario**
 
-![Untitled](Computacio%CC%81n%20Tolerante%20a%20Fallas%20-%20UDG%20Social%20061d3a584dd049b98c49974acf7587d8/Untitled%202.png)
+(Computacio%CC%81n%20Tolerante%20a%20Fallas%20-%20UDG%20Social%20061d3a584dd049b98c49974acf7587d8/Untitled%202.png)
 
 ---
 
                                               **Vista de home (’Desde otro usuario’)**
 
-![Untitled](Computacio%CC%81n%20Tolerante%20a%20Fallas%20-%20UDG%20Social%20061d3a584dd049b98c49974acf7587d8/Untitled%203.png)
+(Computacio%CC%81n%20Tolerante%20a%20Fallas%20-%20UDG%20Social%20061d3a584dd049b98c49974acf7587d8/Untitled%203.png)
 
 ---
 
                                 **Vista de home (’Desde un usuario que no sigue a nadie’)**
 
-![Untitled](Computacio%CC%81n%20Tolerante%20a%20Fallas%20-%20UDG%20Social%20061d3a584dd049b98c49974acf7587d8/Untitled%204.png)
+(Computacio%CC%81n%20Tolerante%20a%20Fallas%20-%20UDG%20Social%20061d3a584dd049b98c49974acf7587d8/Untitled%204.png)
 
 ---
 
                                                         **Vista para publicar post**
 
-![Untitled](Computacio%CC%81n%20Tolerante%20a%20Fallas%20-%20UDG%20Social%20061d3a584dd049b98c49974acf7587d8/Untitled%205.png)
+(Computacio%CC%81n%20Tolerante%20a%20Fallas%20-%20UDG%20Social%20061d3a584dd049b98c49974acf7587d8/Untitled%205.png)
 
 ---
 
