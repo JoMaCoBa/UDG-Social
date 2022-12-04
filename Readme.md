@@ -45,7 +45,7 @@ Para este proyecto optamos por varias tecnologías para llevarlo a cabo, a conti
 ---
 
                                               **Vista de home (’Desde otro usuario’)**
-
+![Imagen de inicio siguiendo personas]
 (https://github.com/JoMaCoBa/UDG-Social/blob/main/Capturas/Inicio1.png)
 
 ---
