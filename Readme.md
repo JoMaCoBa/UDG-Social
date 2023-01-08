@@ -60,7 +60,7 @@ Para este proyecto optamos por varias tecnologías para llevarlo a cabo, a conti
 
 ---
 
-                                                        **Vista para publicar post**
+                                       **Vista para publicar post**
 
 ![Post](https://user-images.githubusercontent.com/110343648/205512444-60e2defd-e8c2-4139-b815-331048824b07.png)
 
